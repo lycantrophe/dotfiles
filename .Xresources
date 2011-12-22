@@ -1,5 +1,4 @@
 URxvt.font: xft:monaco:size=10
-URxvt.background: Black
 URxvt.depth: 32
 URxvt.scrollBar: off
 Xft:antialias: true
@@ -14,7 +13,7 @@ URxvt.urlLauncher:      midori
 URxvt.underlineURLs:    true
 
 ! Modified zenburn by cyclo
-!URxvt.background:  !1f1f1f
+URxvt.background:  !1f1f1f
 URxvt.foreground:  #dcdccc
 URxvt.color0:      #1E2320
 URxvt.color1:      #705050
@@ -34,11 +33,10 @@ URxvt.color14:     #93e0e3
 URxvt.color15:     #ffffff
 
 ! XTerm*settings
-XTerm*font: xft:monaco:size=10
-XTerm*background: Black
-XTerm*depth: 32
-!XTerm*scrollBar: off
+XTerm*faceName: xft:monaco:size=10
+XTerm*scrollBar: off
 
+XTerm*background:  #1f1f1f
 XTerm*foreground:  #dcdccc
 XTerm*color0:      #1E2320
 XTerm*color1:      #705050
