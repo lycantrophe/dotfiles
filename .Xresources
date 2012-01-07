@@ -13,7 +13,7 @@ URxvt.urlLauncher:      midori
 URxvt.underlineURLs:    true
 
 ! Modified zenburn by cyclo
-URxvt.background:  !1f1f1f
+URxvt.background:  #1f1f1f
 URxvt.foreground:  #dcdccc
 URxvt.color0:      #1E2320
 URxvt.color1:      #705050
